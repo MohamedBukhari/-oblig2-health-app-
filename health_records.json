@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mohamed",
+    "weight_kg": 80.0,
+    "height_m": 178.0,
+    "BMI": 0.0
+  },
+  {
+    "name": "yassin",
+    "weight_kg": 90.0,
+    "height_m": 90.5,
+    "BMI": 0.01
+  }
+]
